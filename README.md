@@ -3,7 +3,7 @@ An updated Parse starter project for Rob Percival's iOS9 course projects Instagr
 
 Original starter project dated Feb 2016 = http://www.robpercival.co.uk/wp-content/uploads/2016/02/ParseServerStarterProject.zip
 
-Updated & fixed to swift 2 xcode 7.3 = 
+Updated & fixed to swift 2 xcode 7.3 = https://github.com/plaudev/ParseStarterProjectUpdated
   This code also has Parse & Bolts framework updated to the latest version v1.14.2 as of July 2016
 
 You need to update heroku keys to your own values Lecture #112 @6:45
